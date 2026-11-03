@@ -4,4 +4,3 @@
 * lime
 * salt
 ## Instructions
-I added a dedicated grocery file
